@@ -1,0 +1,4 @@
+<!--button.wxml 按钮组件-->
+<button disabled="{{disabled}}" loading="{{loading}}" class="mds-button {{buttonType}} {{buttonSize}} {{plain?'is-plain':''}} {{round?'is-round':''}}">
+  <slot></slot>
+</button>

@@ -1,0 +1,30 @@
+<!--pages/index/index.wxml-->
+<mds-button size="large">美杜莎按钮</mds-button>
+
+<mds-button class="mt-20" disabled loading size="large" type="primary" round >disabled</mds-button>
+
+
+<mds-button class="mt-20" loading size="large" type="primary" plain round >primary</mds-button>
+<mds-button class="mt-20" size="large" type="success" plain round >success</mds-button>
+<mds-button class="mt-20" size="large" type="warning" plain round >warning</mds-button>
+<mds-button class="mt-20" size="large" type="danger" plain round >danger</mds-button>
+<mds-button class="mt-20" size="large" type="info" plain round >info</mds-button>
+
+<mds-button class="mt-20" loading size="large" type="primary" round >primary</mds-button>
+<mds-button class="mt-20" size="large" type="success" round >success</mds-button>
+<mds-button class="mt-20" size="large" type="warning" round >warning</mds-button>
+<mds-button class="mt-20" size="large" type="danger" round >danger</mds-button>
+<mds-button class="mt-20" size="large" type="info" round >info</mds-button>
+
+<mds-button class="mt-20" loading type="primary" plain round >primary</mds-button>
+<mds-button class="mt-20" type="success" plain round >success</mds-button>
+<mds-button class="mt-20" type="warning" plain round >warning</mds-button>
+<mds-button class="mt-20" type="danger" plain round >danger</mds-button>
+<mds-button class="mt-20" type="info" plain round >info</mds-button>
+
+<mds-button class="mt-20" loading type="primary" round >primary</mds-button>
+<mds-button class="mt-20" type="success" round >success</mds-button>
+<mds-button class="mt-20" type="warning" round >warning</mds-button>
+<mds-button class="mt-20" type="danger" round >danger</mds-button>
+<mds-button class="mt-20" type="info" round >info</mds-button>
+
